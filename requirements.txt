@@ -1,0 +1,6 @@
+azure-cli-core
+bson
+Flask
+requests
+Jinja2
+Werkzeug
